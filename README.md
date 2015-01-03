@@ -19,7 +19,7 @@ Given an IP address and CIDR network size, it calculates the network information
 Provides each data in dotted quads, hexadecimal, and binary formats, as well as array of quads.
 
 ### Aggregated Network Calculation Reports
- * Associative array
+ * Hash
  * JSON
  * String
  * Printed to STDOUT
